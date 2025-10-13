@@ -1,0 +1,9 @@
+[[questions]]
+question = "Which version of Python is the first with TOML support built in"
+answer = "3.11"
+alternatives = ["3.9", "3.10", "3.12"]
+
+[[questions]]
+question = "What's the name of the list-like data structure in TOML"
+answer = "Array"
+alternatives = ["List", "Sequence", "Set"]
